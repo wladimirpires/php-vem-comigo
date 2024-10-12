@@ -1,1 +1,1 @@
-Este é um simples código de interacionalizaçao. Serviu para dar sentido ao IF INLINE.
+Este é um simples código de internacionalizaçao. Serviu para dar sentido ao IF INLINE.
