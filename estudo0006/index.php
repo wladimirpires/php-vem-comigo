@@ -42,6 +42,8 @@
 
             echo "<tr><td><h1>Idade: $idade Anos</td></tr>";
             
+        } else {
+            echo "Preencha o campo data de nascimento !";
         }
 
     ?>
