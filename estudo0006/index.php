@@ -23,7 +23,7 @@
     <table class="table table-responsive table-bordered border-dark table-hover text-center" width="500">
     <?php
 
-        if(isset($_POST['dt_nasc'])){
+        if(isset($_POST['dt_nasc']) && $_POST['dt_nasc'] != "" ){
 
             $data = $dt_nasc = $_POST['dt_nasc'];
 
